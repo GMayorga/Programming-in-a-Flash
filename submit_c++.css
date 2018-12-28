@@ -1,0 +1,105 @@
+
+      input        { font-size: large; }
+
+      div.group {border-left: 4px solid #b600ff;
+        padding-left: 3px;
+      }
+
+      div.person {margin-left: 5px;
+        border-top: 1px black;
+        border-bottom: 1px black;
+      }
+
+
+      #table {
+        width: 90%;
+        left: 7%;
+        top: 100%;
+        position: relative;
+        padding-top: 20%;
+        top: 95%;
+      }
+
+		#navmenu { 
+		width: 120px;
+		padding: 5px;
+		margin: 2px;
+		top: 100px;
+		border: 1px solid black;
+		float: left;
+		padding-right: 1px;
+		margin-top: 5%;
+		}
+		
+      .navbar {
+        overflow: hidden;
+        background-color: #333;
+      }
+	  
+	  
+	.maintext {
+	padding-top: 10%;
+	left: 30%;
+	padding: 5px;
+	margin: 1px;
+	top: 10px;
+	width: 50%;
+	margin-left: 25%;
+	}  
+
+		
+      .navbar a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+      .dropdown {
+        float: right;
+        overflow: hidden;
+        padding-right: 20px;
+      }
+
+      .dropdown .dropbtn {
+        cursor: pointer;
+        font-size: 16px;    
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        margin: 0;
+      }
+
+      .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+        background-color: red;
+      }
+
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 195px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+
+      .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+      }
+
+      .dropdown-content a:hover {
+        background-color: #ddd;
+      }
+
+      .show {
+        display: block;
+      }
