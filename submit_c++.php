@@ -81,22 +81,15 @@
     <div id="table">
         <hr />
         <!--
-This page originally by:
-<a href="http://elvis.rowan.edu/~kilroy/" 
-title="Link to my home page"
-style="margin-right: 5em;">
-D. Provine
-</a>
--->
+        This page created with tools learned from:
+	<a href="http://elvis.rowan.edu/~kilroy/" 
+	title="Link to my home page"
+	style="margin-right: 5em;">
+	D. Provine
+	</a>
+	-->
         <table style="width:100%" id="webline" title="validation and testing links">
             <tr>
-                <td>
-                    <div id="name">
-                        <a href="http://elvis.rowan.edu/~kilroy/webdev/Projects/mayorgag4/" title="Link to my home page">
-                            G. Mayorga
-                        </a>
-                    </div>
-                </td>
                 <td>
                     <div id="validation"> Valid:
                         <a href="http://validator.w3.org/check/referer">HTML5 /</a>
